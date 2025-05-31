@@ -1,0 +1,6 @@
+[console_scripts]
+Client = prac1.client:main
+Publisher = prac1.publisher:main
+Service = prac1.service:main
+Subscriber = prac1.subscriber:main
+

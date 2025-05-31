@@ -1,0 +1,7 @@
+{
+  "package_name": "interfaces",
+  "non_idl_tuples": [
+    "/home/joselu15/Escritorio/Uni/p1_adr_jlmr/interfaces:srv/Greet.srv",
+    "/home/joselu15/Escritorio/Uni/p1_adr_jlmr/interfaces:srv/Square.srv"
+  ]
+}

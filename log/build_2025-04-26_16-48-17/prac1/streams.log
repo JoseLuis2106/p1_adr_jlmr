@@ -1,0 +1,49 @@
+[0.511s] Invoking command in '/home/joselu15/Escritorio/Uni/p1_adr_jlmr/prac1': PYTHONPATH=/home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/prac1 build --build-base /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build install --record /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/install.log --single-version-externally-managed install_data
+[0.718s] running egg_info
+[0.719s] creating ../build/prac1/prac1.egg-info
+[0.719s] writing ../build/prac1/prac1.egg-info/PKG-INFO
+[0.719s] writing dependency_links to ../build/prac1/prac1.egg-info/dependency_links.txt
+[0.719s] writing entry points to ../build/prac1/prac1.egg-info/entry_points.txt
+[0.719s] writing requirements to ../build/prac1/prac1.egg-info/requires.txt
+[0.720s] writing top-level names to ../build/prac1/prac1.egg-info/top_level.txt
+[0.720s] writing manifest file '../build/prac1/prac1.egg-info/SOURCES.txt'
+[0.721s] reading manifest file '../build/prac1/prac1.egg-info/SOURCES.txt'
+[0.722s] writing manifest file '../build/prac1/prac1.egg-info/SOURCES.txt'
+[0.722s] running build
+[0.722s] running build_py
+[0.722s] creating /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build
+[0.722s] creating /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib
+[0.722s] creating /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1
+[0.722s] copying prac1/subscriber.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1
+[0.723s] copying prac1/service.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1
+[0.723s] copying prac1/client.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1
+[0.723s] copying prac1/publisher.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1
+[0.723s] copying prac1/__init__.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1
+[0.723s] running install
+[0.723s] running install_lib
+[0.724s] creating /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1
+[0.724s] copying /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1/subscriber.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1
+[0.724s] copying /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1/service.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1
+[0.724s] copying /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1/client.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1
+[0.724s] copying /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1/publisher.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1
+[0.724s] copying /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build/lib/prac1/__init__.py -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1
+[0.725s] byte-compiling /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1/subscriber.py to subscriber.cpython-310.pyc
+[0.725s] byte-compiling /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1/service.py to service.cpython-310.pyc
+[0.725s] byte-compiling /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1/client.py to client.cpython-310.pyc
+[0.726s] byte-compiling /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1/publisher.py to publisher.cpython-310.pyc
+[0.726s] byte-compiling /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1/__init__.py to __init__.cpython-310.pyc
+[0.726s] running install_data
+[0.727s] creating /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/share/ament_index
+[0.727s] creating /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/share/ament_index/resource_index
+[0.727s] creating /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/share/ament_index/resource_index/packages
+[0.727s] copying resource/prac1 -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/share/ament_index/resource_index/packages
+[0.727s] copying package.xml -> /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/share/prac1
+[0.727s] running install_egg_info
+[0.728s] Copying ../build/prac1/prac1.egg-info to /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages/prac1-0.0.0-py3.10.egg-info
+[0.729s] running install_scripts
+[0.748s] Installing Client script to /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/prac1
+[0.748s] Installing Publisher script to /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/prac1
+[0.748s] Installing Service script to /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/prac1
+[0.748s] Installing Subscriber script to /home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/prac1
+[0.749s] writing list of installed files to '/home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/install.log'
+[0.769s] Invoked command in '/home/joselu15/Escritorio/Uni/p1_adr_jlmr/prac1' returned '0': PYTHONPATH=/home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/joselu15/Escritorio/Uni/p1_adr_jlmr/install/prac1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/prac1 build --build-base /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/build install --record /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/prac1/install.log --single-version-externally-managed install_data

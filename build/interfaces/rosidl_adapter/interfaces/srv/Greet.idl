@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interfaces/srv/Greet.srv
+// generated code does not contain a copyright notice
+
+
+module interfaces {
+  module srv {
+    struct Greet_Request {
+      string name;
+    };
+    struct Greet_Response {
+      string greeting;
+    };
+  };
+};

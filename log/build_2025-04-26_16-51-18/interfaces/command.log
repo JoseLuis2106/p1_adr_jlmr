@@ -1,0 +1,4 @@
+Invoking command in '/home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/interfaces -- -j12 -l12
+Invoked command in '/home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/interfaces -- -j12 -l12
+Invoking command in '/home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/interfaces
+Invoked command in '/home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/joselu15/Escritorio/Uni/p1_adr_jlmr/build/interfaces
